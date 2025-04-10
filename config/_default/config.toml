@@ -3,7 +3,8 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 baseURL = "https://jasmineamber.github.io/"
-defaultContentLanguage = "zh"
+languageCode = "cn"
+defaultContentLanguage = "cn"
 
 enableRobotsTXT = true
 summaryLength = 0
